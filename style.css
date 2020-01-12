@@ -1,3 +1,11 @@
-cdh1 {
+h1 {
     color: #0066ff
+}
+h1{
+    text-align: center;
+}
+nav{
+    position: fixed;
+    top: 0px;
+    
 }
